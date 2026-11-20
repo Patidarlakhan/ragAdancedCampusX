@@ -1,0 +1,42 @@
+langchain
+langchain-community
+pypdf
+rapidocr-onnxruntime
+pytesseract
+pdfplumber
+pdfminer.six
+jq
+beautifulsoup4
+lxml
+ipykernel
+langchain_community
+rapidocr
+dotenv
+rank_bm25
+lark
+langchain_cohere
+flashrank
+faiss-cpu
+tavily
+
+# Core LangChain packages
+langchain
+langchain-core
+langchain-text-splitters
+langchain-experimental
+langchain_ollama
+langchain_chroma
+langchain_neo4j
+
+# OpenAI integration (for models and embeddings)
+langchain-openai
+python-dotenv
+
+# Token counting for text splitters
+tiktoken
+
+# kernel for jupyter noteboks
+ipykernel
+
+# colored text in terminal
+termcolor
