@@ -18,6 +18,10 @@ langchain_cohere
 flashrank
 faiss-cpu
 tavily
+unstructured[pdf]
+tesseract
+
+open-clip-torch
 
 # Core LangChain packages
 langchain
@@ -27,6 +31,7 @@ langchain-experimental
 langchain_ollama
 langchain_chroma
 langchain_neo4j
+langchain_unstructured
 
 # OpenAI integration (for models and embeddings)
 langchain-openai
